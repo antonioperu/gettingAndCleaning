@@ -1,0 +1,27 @@
+VARIABLES LIST:
+
+features: features presents in the features.txt file
+
+activity_labels: Activites and labels (n) taken from activity_labels.txt file
+
+subject_test: test data about subject tests
+
+x_test: features test data
+
+y_test: activity labels test data
+
+subject_train: train data about subject tests
+
+x_train: features train data
+
+y_train: activity labels train data
+
+xmerged: merge of x_train and x_test
+
+ymerged: merge of y_train and y_test
+
+subjectmerged: merge of subject train and subject test
+
+Merged_data: merge of xmerged, ymerged and subjectmerged
+
+Data: subset of Merged_data
